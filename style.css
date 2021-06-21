@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background: linear-gradient(45deg, azure, lightyellow)
+}
+
+.img{
+    width: 280px;
+    height: 180px;
+} 
+
+.sci{
+    margin-left: 1500px;
+}
